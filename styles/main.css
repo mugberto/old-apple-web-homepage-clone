@@ -17,6 +17,7 @@
     display: flex;
     flex-flow: row nowrap;
     width: 68%;
+    min-width: 945px;
     top: 100px;
     left: 50%;
     transform: translate(-50%, -50%);
@@ -108,4 +109,14 @@ div.container .search-icon{
     text-decoration: none;
     color: #fff;
     font-size: 1.5rem;
+}
+
+.card{
+    width: 100%;
+}
+
+.card img{
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
 }
