@@ -1,0 +1,11 @@
+/* General styles */
+
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+.container{
+    position: relative;
+    width: 1440px;
+    margin: 0 auto;
+}
