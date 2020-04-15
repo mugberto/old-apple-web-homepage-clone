@@ -120,3 +120,33 @@ div.container .search-icon{
     height: 200px;
     object-fit: cover;
 }
+
+/* site footer section */
+.site-footer{
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+    width: 70%;
+    margin: 20px auto;
+    font-size: .7rem;
+}
+
+.site-footer a{
+    text-decoration: none;
+    color: #2988cc;
+}
+.site-footer a:hover{
+    text-decoration: underline;
+}
+
+
+.directions{
+    margin-bottom: 20px;
+}
+
+
+
+.footer-nav img{
+    vertical-align: middle;
+}
+
