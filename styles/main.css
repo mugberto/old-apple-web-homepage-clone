@@ -24,7 +24,7 @@
   left: 50%;
   transform: translate(-50%, -50%);
   background-color: #343434;
-  box-shadow: 0px 1px 2px #777;
+  box-shadow: 0 1px 2px #777;
   border-radius: 3px;
 }
 
@@ -39,27 +39,31 @@
   text-align: center;
   padding: 10px;
   background-color: #545454;
-  background-image: -webkit-radial-gradient(
+  background-image:
+    -webkit-radial-gradient(
       ellipse closest-corner,
       #0000,
       #0000 30% #ababab33
     ),
     -webkit-linear-gradient(#757575, #777 49%, #585858 50%, #777);
-  background-image: -moz-radial-gradient(
+  background-image:
+    -moz-radial-gradient(
       ellipse closest-corner,
       #0000,
       #0000 30%,
       #ababab33
     ),
     -moz-linear-gradient(#757575, #777 49%, #585858 50%, #777);
-  background-image: -o-radial-gradient(
+  background-image:
+    -o-radial-gradient(
       ellipse closest-corner,
       #0000,
       #0000 30%,
       #ababab33
     ),
     -o-linear-gradient(#757575, #777 49%, #585858 50%, #777);
-  background-image: radial-gradient(
+  background-image:
+    radial-gradient(
       ellipse closest-corner,
       #0000,
       #0000 30%,
@@ -76,28 +80,32 @@
 
 a.top-nav-item:hover {
   background: #000;
-  background-image: -webkit-radial-gradient(
+  background-image:
+    -webkit-radial-gradient(
       ellipse closest-corner,
       #0006,
       #0006 30%,
       #3335
     ),
     -webkit-linear-gradient(#757575, #777 49%, #585858 50%, #777);
-  background-image: -moz-radial-gradient(
+  background-image:
+    -moz-radial-gradient(
       ellipse closest-corner,
       #0006,
       #0006 30%,
       #3335
     ),
     -moz-linear-gradient(#757575, #777 49%, #585858 50%, #777);
-  background-image: -o-radial-gradient(
+  background-image:
+    -o-radial-gradient(
       ellipse closest-corner,
       #0006,
       #0006 30%,
       #3335
     ),
     -o-linear-gradient(#757575, #777 49%, #585858 50%, #777);
-  background-image: radial-gradient(
+  background-image:
+    radial-gradient(
       ellipse closest-corner,
       #0006,
       #0006 30%,
@@ -113,6 +121,7 @@ a.top-nav-item:hover {
   font-size: 1.4rem;
   padding: 5px;
 }
+
 .top-nav-item:last-child {
   position: relative;
   flex: 1.3;
@@ -217,6 +226,7 @@ div.container .search-icon {
   text-decoration: none;
   color: #2988cc;
 }
+
 .site-footer a:hover {
   text-decoration: underline;
 }
