@@ -137,6 +137,10 @@ div.container .search-icon{
     text-decoration: underline;
 }
 
+.fa-play-circle-o{
+    vertical-align: middle;
+}
+
 .card{
     width: 100%;
 }
