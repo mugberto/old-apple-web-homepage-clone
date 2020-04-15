@@ -37,7 +37,10 @@
     text-align: center;
     padding: 10px;
     background-color: #545454;
-    background-image: radial-gradient(ellipse closest-corner,#0000,#0000 30%,#ababab33), linear-gradient(#757575,#777 49%,#585858 50%,#777);
+    background-image: -webkit-radial-gradient(ellipse closest-corner,#0000,#0000 30%,#ababab33), -webkit-linear-gradient(#757575,#777 49%,#585858 50%,#777);
+    background-image:    -moz-radial-gradient(ellipse closest-corner,#0000,#0000 30%,#ababab33),    -moz-linear-gradient(#757575,#777 49%,#585858 50%,#777);
+    background-image:      -o-radial-gradient(ellipse closest-corner,#0000,#0000 30%,#ababab33),      -o-linear-gradient(#757575,#777 49%,#585858 50%,#777);
+    background-image:         radial-gradient(ellipse closest-corner,#0000,#0000 30%,#ababab33),         linear-gradient(#757575,#777 49%,#585858 50%,#777);
     border: 1px solid #bbb5;
 }
 
@@ -48,7 +51,10 @@
 
 a.top-nav-item:hover{
     background: #000000;
-    background-image: radial-gradient(ellipse closest-corner,#0006,#0006 30%,#3335), linear-gradient(#757575,#777 49%,#585858 50%,#777);
+    background-image: -webkit-radial-gradient(ellipse closest-corner,#0006,#0006 30%,#3335), -webkit-linear-gradient(#757575,#777 49%,#585858 50%,#777);
+    background-image:    -moz-radial-gradient(ellipse closest-corner,#0006,#0006 30%,#3335),    -moz-linear-gradient(#757575,#777 49%,#585858 50%,#777);
+    background-image:      -o-radial-gradient(ellipse closest-corner,#0006,#0006 30%,#3335),      -o-linear-gradient(#757575,#777 49%,#585858 50%,#777);
+    background-image:         radial-gradient(ellipse closest-corner,#0006,#0006 30%,#3335),         linear-gradient(#757575,#777 49%,#585858 50%,#777);
     border: 1px solid #1112;
 }
 
