@@ -15,7 +15,7 @@ This project is about cloning old version of the Apple website home page
 ## Live Demo
 
 ​
-[Live Demo Link](https://rawcdn.githack.com/mugberto/old-apple-web-homepage-clone/0945089bfad73bb4da8b904b21eff6498825e430/index.html)
+[Live Demo Link](https://rawcdn.githack.com/mugberto/old-apple-web-homepage-clone/ec75664558f748f6994f922897ad8c380bfe4b8f/index.html)
 ​
 
 ## Getting Started
@@ -33,7 +33,7 @@ This project is about cloning old version of the Apple website home page
 - Linkedin: [mugberto](https://www.linkedin.com/in/hubert-mugabo-23144b6a/)
 
  ​
-## �� Contributing
+## Contributing
 
 Contributions, issues and feature requests are welcome!
 ​
@@ -52,6 +52,6 @@ Please, give a ⭐️ if you like this project!
 - Microverse TSE
 
   ​
-## �� License
+## License
 ​
 This project is [MIT](lic.url) licensed.
