@@ -1,4 +1,4 @@
-# BUILDING WITH BACKGROUND AND GRADIENTS
+# Build Some Amazing
 This project is about cloning old version of the Apple website home page
 
 ## Screenshot
